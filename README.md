@@ -3,9 +3,13 @@
 This project was bootstrapped with Create React App, using the Redux and Redux Toolkit template.
 
 
-In the project directory, you can run:
+In the root of a discord-clone-frontend directory, you can run:
 
 **`npm start`**
+
+In the root of a discord-clone-backend directory, you can run:
+
+**`nodemon`**
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
